@@ -4,15 +4,14 @@ Student of double degree of Pharmacy and Human Nutrition in Universidad de Valen
 ### Interests
 - Data science in the life sciences, including pharmacoinformatics and physiological data analysis.
 
-### Languages & tools
+## Current projects
+- **[MyoMetrics](https://myometrics.lolocghomelab.xyz)**: a Flutter-based mobile/PWA workout logger focused on muscle hypertrophy and strength, featuring advanced metrics and predictive algorithms.
+
+## Languages & tools
 - Python
 - Dart & Flutter
 - C++: for IoT with Arduino + PlatformIO
 
-## Current projects
-- **MyoMetrics**: a Flutter-based mobile/PWA workout logger focused on muscle hypertrophy and strength, featuring advanced metrics and predictive algorithms.  
-  [Explore MyoMetrics](https://myometrics.lolocghomelab.xyz)
-  
 
 
 <!--
