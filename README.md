@@ -5,7 +5,7 @@ Student of double degree of Pharmacy and Human Nutrition in Universidad de Valen
 - Data science in the life sciences, including pharmacoinformatics and physiological data analysis.
 
 ## Current projects
-- **[MyoMetrics](https://myometrics.lolocghomelab.xyz)**: a Flutter-based mobile/PWA workout logger focused on muscle hypertrophy and strength, featuring advanced metrics and predictive algorithms.
+- **(WIP) [MyoMetrics](https://myometrics.lolocghomelab.xyz)**: a Flutter-based mobile/PWA workout logger focused on muscle hypertrophy and strength, featuring advanced metrics and predictive algorithms for both analysis of training outcomes and automation of workout progression.
 
 ## Languages & tools
 - Python
