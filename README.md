@@ -5,7 +5,11 @@ Student of double degree of Pharmacy and Human Nutrition in Universidad de Valen
 - Data science in the life sciences, including pharmacoinformatics and physiological data analysis.
 
 ## Current projects
-- **(WIP) [MyoMetrics](https://myometrics.lolocghomelab.xyz)**: a Flutter-based mobile/PWA workout logger focused on muscle hypertrophy and strength, featuring advanced metrics and predictive algorithms for both analysis of training outcomes and automation of workout progression.
+- https://github.com/LoloCG/SimplePKPDProject: Simple PKPD model for learning pharmacometry, C++, etc.
+- [MyoMetrics](https://myometrics.lolocghomelab.xyz): Passion Project. Flutter-based mobile/PWA workout logger focused on muscle hypertrophy.
+### Other
+- https://github.com/LoloCG/UV_Calendar_Formatter_Script: Simple script for readability of University calendar import file.
+ - https://github.com/LoloCG/Task_Timeplot: Personal productivity tool to be used alongside other task time tracking apps.
 
 ## Languages & tools
 - Python
