@@ -1,15 +1,17 @@
-## About Me
+# About
 Student of double degree of Pharmacy and Human Nutrition in Universidad de Valencia (UV), Spain.
 
-### Interests
+## Interests
 - Data science in the life sciences, including pharmacoinformatics and physiological data analysis.
 
-## Current projects
-- https://github.com/LoloCG/SimplePKPDProject: Simple PKPD model for learning pharmacometry, C++, etc.
+# Projects
+## Major
 - [MyoMetrics](https://myometrics.lolocghomelab.xyz): Passion Project. Flutter-based mobile/PWA workout logger focused on muscle hypertrophy.
-### Other
+
+## Minor
+- https://github.com/LoloCG/SimplePKPDProject: Simple PKPD model for learning pharmacometry, C++, etc.
 - https://github.com/LoloCG/UV_Calendar_Formatter_Script: Simple script for readability of University calendar import file.
- - https://github.com/LoloCG/Task_Timeplot: Personal productivity tool to be used alongside other task time tracking apps.
+- https://github.com/LoloCG/Task_Timeplot: Personal productivity tool to be used alongside other task time tracking apps.
 
 ## Languages & tools
 - Python
