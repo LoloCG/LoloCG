@@ -9,14 +9,15 @@ Student of double degree of Pharmacy and Human Nutrition in Universidad de Valen
 - [MyoMetrics](https://myometrics.lolocghomelab.xyz): Passion Project. Flutter-based mobile/PWA workout logger focused on muscle hypertrophy.
 
 ## Minor
-- https://github.com/LoloCG/SimplePKPDProject: Simple PKPD model for learning pharmacometry, C++, etc.
+- (WIP) https://github.com/LoloCG/SimplePKPDProject: Simple PKPD model for learning pharmacometry, C++, etc.
 - https://github.com/LoloCG/UV_Calendar_Formatter_Script: Simple script for readability of University calendar import file.
 - https://github.com/LoloCG/Task_Timeplot: Personal productivity tool to be used alongside other task time tracking apps.
 
 ## Languages & tools
 - Python
 - Dart & Flutter
-- C++: for IoT with Arduino + PlatformIO
+- C++:
+  - Also for IoT with Arduino + PlatformIO
 
 
 
